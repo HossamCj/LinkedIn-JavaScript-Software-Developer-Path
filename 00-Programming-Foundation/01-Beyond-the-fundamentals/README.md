@@ -6,6 +6,16 @@
     * The concept of Object-Orientation.
 
 --------------------
+--------------------
+**Course Link :**
+<br> [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals)
+
+<br>[Preview Certificate on LinkedIn](https://www.linkedin.com/learning/certificates/bb23cd946c0fb6983fbaafea3ca51515b33ed006d93b353e3ed8a0528cecbd51)
+<p align="center">
+  <img  src="https://media-exp1.licdn.com/dms/image/C4D1FAQE5Qnm00upf5A/feedshare-document-cover-images_1280/0/1669280944435?e=1670191200&v=beta&t=rQ2TwElcNQtlpEzHGiQ6j8CBzrd3vVOHUKd_dogmpb8" width="700">
+</p>
+
+
 ### These notes on that course by @ahmedsamirdev :
 </br>
 
@@ -217,12 +227,4 @@ print('Output complete')
     ```
 
     Should be `1 -= 1`
-
---------------------
-**Course Link:** [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals)
-
-<h5><a href="https://www.linkedin.com/learning/certificates/bb23cd946c0fb6983fbaafea3ca51515b33ed006d93b353e3ed8a0528cecbd51">Certificate Link</a></h5>
-<p align="center">
-  <img  src="https://media-exp1.licdn.com/dms/image/C4D1FAQE5Qnm00upf5A/feedshare-document-cover-images_1280/0/1669280944435?e=1670068800&v=beta&t=jIR5yFYlf-MtVYX_GgpciwLDkfSiWQZlxo22tFtipVE" width="700">
-</p>
 

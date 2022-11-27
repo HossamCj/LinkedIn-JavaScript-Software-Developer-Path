@@ -2,7 +2,10 @@
 
 <h2>To have the mindset of the software developer </h2>
 
-    Programmers are in higher demand today than ever before. Get the essential skills and tools to become a successful software engineer, and learn the fundamental concepts and practices that are critical to the task of coding—no matter what language you choose.
+    Programmers are in higher demand today than ever before.
+    Get the essential skills and tools to become a successful software engineer,
+    and learn the fundamental concepts and practices that are critical to the task 
+    of coding—no matter what language you choose.
 <br>
 
 | Total 12 courses | Duration ~ 22 h | 2 weeks Internship (20 Nov 2022 - Present) |
